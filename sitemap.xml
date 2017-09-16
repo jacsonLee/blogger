@@ -2,23 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://yoursite.com/2016/05/16/nginxreverseproxy/</loc>
     
-    <lastmod>2017-09-06T15:23:08.000Z</lastmod>
+    <lastmod>2017-09-16T08:00:06.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://yoursite.com/2015/11/01/webPerformance/</loc>
     
-    <lastmod>2017-09-06T14:27:11.000Z</lastmod>
+    <lastmod>2017-09-16T07:52:35.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2015/11/01/javascripttree/</loc>
+    
+    <lastmod>2017-09-16T07:07:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/03/22/eclipse2Ij/</loc>
+    
+    <lastmod>2017-09-16T06:48:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/07/ubuntu_install_jdk/</loc>
+    
+    <lastmod>2017-09-07T16:53:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-09-07T16:53:06.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2017-09-06T14:11:39.000Z</lastmod>
+    <lastmod>2017-09-07T16:52:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-09-07T16:52:30.000Z</lastmod>
     
   </url>
   
