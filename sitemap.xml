@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/04/04/java_threadpool/</loc>
+    
+    <lastmod>2018-04-03T17:09:38.655Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/04/04/java_aqs/</loc>
+    
+    <lastmod>2018-04-03T16:09:32.192Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/12/31/WriteInTheEndOfYear/</loc>
     
     <lastmod>2017-09-16T08:21:20.000Z</lastmod>

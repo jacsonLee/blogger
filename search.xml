@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Java并发之线程池技术]]></title>
+    <url>%2Fblogger%2F2018%2F04%2F04%2Fjava_threadpool%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>多线程</tag>
+        <tag>Java</tag>
+        <tag>并发</tag>
+        <tag>线程池</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Java并发之AQS原理解析]]></title>
+    <url>%2Fblogger%2F2018%2F04%2F04%2Fjava_aqs%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>多线程</tag>
+        <tag>Java</tag>
+        <tag>并发</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Ubantu下安装JDK]]></title>
     <url>%2Fblogger%2F2017%2F09%2F07%2Fubuntu_install_jdk%2F</url>
     <content type="text"><![CDATA[为了愉快地玩idea,决定在linux下装phpstorm跟webstorm.结果两个都要求装java环境.师兄们建议安装sunjdk,弄了一下搞定了,做下记录 第一步:下载地址:http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html 然后选择同意Licese,下载tar.gz压缩包 第二步:解压解压tar.gz包都是用tar zxvf命令(进入到当前目录) 1sudo tar zxvf ./jdk-8u45-linux-x64.tar.gz 第三步:设置环境变量设置环境变量需要使用.bashrc这个文件cd ~ 进入到根目录,ls -a 即可查看到.bashrc这个隐藏目录 注:修改.bashrc之前最好先备份一下1cp .bashrc .bash_original 然后使用vi或者vim编辑.bashrc文件 1vim ~/.bashrc 在该文件的末尾添加以下代码 123export JAVA_HOME=/home/jason/DOwnloads/jdk export CLASSPATH=$&#123;JAVA_HOME&#125;/lib:.export PATH=$&#123;JAVA_HOME&#125;/bin:$PATH JAVA_HOME存放的是jdk的安装目录. 设置CLASSPATH时候,加上当前目录(.) 设置PATH的时候,export PATH=${JAVA_HOME}/bin:$PATH,$PATH前的连接符号是冒号(:).win下是分号(;) 为了让修改立刻生效,在终端执行以下命令:1source ~/.bashrc 第四步:验证在终端输入 1java -version 看到类似下图,说明你成功了.]]></content>
@@ -57,8 +84,8 @@
         <category>编程</category>
       </categories>
       <tags>
-        <tag>eclipse</tag>
         <tag>Java</tag>
+        <tag>eclipse</tag>
         <tag>IntellJIDEA</tag>
       </tags>
   </entry>
