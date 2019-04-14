@@ -5,7 +5,7 @@
   <link href="/blogger/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-03T17:09:38.655Z</updated>
+  <updated>2019-04-14T17:10:57.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>FY2019</title>
+    <link href="http://yoursite.com/2019/04/14/FY2019summary/"/>
+    <id>http://yoursite.com/2019/04/14/FY2019summary/</id>
+    <published>2019-04-14T10:07:11.000Z</published>
+    <updated>2019-04-14T17:10:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="A-serious-illness-Health"><a href="#A-serious-illness-Health" class="headerlink" title="A serious illness - Health"></a>A serious illness - Health</h2><img src="/blogger/2019/04/14/FY2019summary/1.jpeg" alt="吃生蚝" title="吃生蚝">
+<p>   On April 21,2018,my friend JunX and I ate oysters at a barbecue shop.Because my tonsils were injured by oysters.AS a result,two weeks later,I was hospitalized because I couldn’t eat and my tonsils were swoollen.On the bed, I felt extremely painful and powerless.Five bottles of liquid medicine every day, from morning to night.I can’t do anything.After two weeks of treatment,I was finally discharged from the hospital.My weight dropped from 128 to 108 kilograms.In order to recover quickly,    I started running 5 kilometers every night.From then on,I realized the importance of health and bought myself and insurance policy.</p>
+ <a id="more"></a>
+<h2 id="The-Interview"><a href="#The-Interview" class="headerlink" title="The Interview"></a>The Interview</h2><img src="/blogger/2019/04/14/FY2019summary/2.jpeg" alt="深圳阿里中心" title="深圳阿里中心">
+<p>After a long period of preparation,starting on April 2018,I began to deliver Alibaba’s position for an interview.Why choose Alibaba not Tencent ? Because I have not choice , only alibaba have the best Java technology which fit what I learned.But non-special interviews will take a very long time.After two months, my interview in the Rookie Logistics Department came to the third round.I can’t stand it any longer.Then I choose Lazada Interview.After a telephone interview,I bought a high-speed<br>rail ticket from GuangZhou To ShenZhen on Saturday.After five hours of special interview, I finally passed the interview.I remember that at about 10 p.m., when I was approaching the subway entrance, the interviewer sent me his wechat.</p>
+<h2 id="Welcome-To-Alibaba"><a href="#Welcome-To-Alibaba" class="headerlink" title="Welcome To Alibaba"></a>Welcome To Alibaba</h2><img src="/blogger/2019/04/14/FY2019summary/3.jpeg" alt="阿里巴巴正门" title="阿里巴巴正门">
+<p>That’s great. The moment I received the offer.I believe it must be very important for my life.On August 6, 2018, I officially took up my post，which the ali guys call on-boarding.It is so amazing.I love this feeling.There are so many talented people.Everything is new to me, like a university, which arouses my curiosity and desire to explore new things.</p>
+<h2 id="Team"><a href="#Team" class="headerlink" title="Team"></a>Team</h2><img src="/blogger/2019/04/14/FY2019summary/4.jpeg" alt="全家福" title="全家福">
+<p>My department is the business department.My Team is mobile team.There are 11 people in my team.My boss is cloudy,Who always takes good care of me, cares about my growth, and cares about my life.From him, I began to learn how to be a leader, how to treat their subordinates, help subordinates grow, let the whole team together, do one thing together.My elder brother call Mark.He is a very excellent guy.He graduated from Nanjing University and studied at Waseda University in Japan.It’s my luck and honor to learn alongside him.He taught me a lot of professional knowledge, and how to be a qualified Ali guy, how to do things.The members of the team are very excellent. I am very happy to learn and grow in such a team when I was young.</p>
+<h2 id="Work-proposals-for-myself"><a href="#Work-proposals-for-myself" class="headerlink" title="Work-proposals for myself"></a>Work-proposals for myself</h2><p>Specific work content is not mentioned, but still want to give themselves more incentives.</p>
+<ul>
+<li>Get business results</li>
+<li>Self-demand, self-growth</li>
+<li>Continuous Learning and Continuous Thinking</li>
+<li>Business and technical capabilities are equally important</li>
+<li>Think at two higher levels and do at one higher level.</li>
+<li>One more step.</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;A-serious-illness-Health&quot;&gt;&lt;a href=&quot;#A-serious-illness-Health&quot; class=&quot;headerlink&quot; title=&quot;A serious illness - Health&quot;&gt;&lt;/a&gt;A serious illness - Health&lt;/h2&gt;&lt;img src=&quot;/blogger/2019/04/14/FY2019summary/1.jpeg&quot; alt=&quot;吃生蚝&quot; title=&quot;吃生蚝&quot;&gt;
+&lt;p&gt;   On April 21,2018,my friend JunX and I ate oysters at a barbecue shop.Because my tonsils were injured by oysters.AS a result,two weeks later,I was hospitalized because I couldn’t eat and my tonsils were swoollen.On the bed, I felt extremely painful and powerless.Five bottles of liquid medicine every day, from morning to night.I can’t do anything.After two weeks of treatment,I was finally discharged from the hospital.My weight dropped from 128 to 108 kilograms.In order to recover quickly,    I started running 5 kilometers every night.From then on,I realized the importance of health and bought myself and insurance policy.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="年底总结" scheme="http://yoursite.com/tags/%E5%B9%B4%E5%BA%95%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java并发之线程池技术</title>
     <link href="http://yoursite.com/2018/04/04/java_threadpool/"/>
     <id>http://yoursite.com/2018/04/04/java_threadpool/</id>
-    <published>2018-04-03T16:07:39.030Z</published>
-    <updated>2018-04-03T17:09:38.655Z</updated>
+    <published>2018-04-03T17:09:38.000Z</published>
+    <updated>2018-04-03T17:09:38.000Z</updated>
     
     <summary type="html">
     
@@ -43,8 +88,8 @@
     <title>Java并发之AQS原理解析</title>
     <link href="http://yoursite.com/2018/04/04/java_aqs/"/>
     <id>http://yoursite.com/2018/04/04/java_aqs/</id>
-    <published>2018-04-03T16:05:32.637Z</published>
-    <updated>2018-04-03T16:09:32.192Z</updated>
+    <published>2018-04-03T16:09:32.000Z</published>
+    <updated>2018-04-03T16:09:32.000Z</updated>
     
     <summary type="html">
     
@@ -62,268 +107,10 @@
   </entry>
   
   <entry>
-    <title>Ubantu下安装JDK</title>
-    <link href="http://yoursite.com/2017/09/07/ubuntu_install_jdk/"/>
-    <id>http://yoursite.com/2017/09/07/ubuntu_install_jdk/</id>
-    <published>2017-09-07T15:19:56.000Z</published>
-    <updated>2017-09-07T16:53:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>为了愉快地玩idea,决定在linux下装phpstorm跟webstorm.结果两个都要求装java环境.师兄们建议安装sunjdk,弄了一下搞定了,做下记录</p>
-<h2 id="第一步-下载"><a href="#第一步-下载" class="headerlink" title="第一步:下载"></a>第一步:下载</h2><p>地址:<a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html" target="_blank" rel="external">http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html</a></p>
-<p>然后选择同意Licese,下载tar.gz压缩包</p>
-<a id="more"></a>
-<h2 id="第二步-解压"><a href="#第二步-解压" class="headerlink" title="第二步:解压"></a>第二步:解压</h2><p>解压tar.gz包都是用tar zxvf命令(进入到当前目录)</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo tar zxvf ./jdk-8u45-linux-x64.tar.gz</div></pre></td></tr></table></figure>
-<h2 id="第三步-设置环境变量"><a href="#第三步-设置环境变量" class="headerlink" title="第三步:设置环境变量"></a>第三步:设置环境变量</h2><p>设置环境变量需要使用.bashrc这个文件<br>cd ~ 进入到根目录,ls -a 即可查看到.bashrc这个隐藏目录</p>
-<p>注:修改.bashrc之前最好先备份一下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cp .bashrc .bash_original</div></pre></td></tr></table></figure></p>
-<p>然后使用vi或者vim编辑.bashrc文件</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">vim ~/.bashrc</div></pre></td></tr></table></figure>
-<p>在该文件的末尾添加以下代码</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">export JAVA_HOME=/home/jason/DOwnloads/jdk </div><div class="line">export CLASSPATH=$&#123;JAVA_HOME&#125;/lib:.</div><div class="line">export PATH=$&#123;JAVA_HOME&#125;/bin:$PATH</div></pre></td></tr></table></figure>
-<ul>
-<li>JAVA_HOME存放的是jdk的安装目录.</li>
-<li>设置CLASSPATH时候,加上当前目录(.)</li>
-<li>设置PATH的时候,export PATH=${JAVA_HOME}/bin:$PATH,$PATH前的连接符号是冒号(:).win下是分号(;)</li>
-</ul>
-<p>为了让修改立刻生效,在终端执行以下命令:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">source ~/.bashrc</div></pre></td></tr></table></figure></p>
-<h2 id="第四步-验证"><a href="#第四步-验证" class="headerlink" title="第四步:验证"></a>第四步:验证</h2><p>在终端输入</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">java -version</div></pre></td></tr></table></figure>
-<p>看到类似下图,说明你成功了.</p>
-<img src="/blogger/2017/09/07/ubuntu_install_jdk/confimjdk.png" alt="如图" title="如图">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;为了愉快地玩idea,决定在linux下装phpstorm跟webstorm.结果两个都要求装java环境.师兄们建议安装sunjdk,弄了一下搞定了,做下记录&lt;/p&gt;
-&lt;h2 id=&quot;第一步-下载&quot;&gt;&lt;a href=&quot;#第一步-下载&quot; class=&quot;headerlink&quot; title=&quot;第一步:下载&quot;&gt;&lt;/a&gt;第一步:下载&lt;/h2&gt;&lt;p&gt;地址:&lt;a href=&quot;http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;然后选择同意Licese,下载tar.gz压缩包&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
-    
-    
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
-    
-      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2016总结</title>
-    <link href="http://yoursite.com/2017/02/17/2016summary/"/>
-    <id>http://yoursite.com/2017/02/17/2016summary/</id>
-    <published>2017-02-17T15:11:57.000Z</published>
-    <updated>2017-09-16T08:20:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="2016年总结"><a href="#2016年总结" class="headerlink" title="2016年总结"></a>2016年总结</h2><blockquote>
-<ul>
-<li>那一天 我闭目在经殿香雾中 蓦然听见你颂经中的真言<br>那一月 我摇动所有的转经筒 不为超度 只为触摸你的指尖<br>那一年 我磕长头匍匐在山路 不为觐见 只为贴着你的温暖</li>
-</ul>
-</blockquote>
-<p>又一年过去了，今年我的年终总结来得格外迟。究其原因，因为特别乏，没空是借口，没心情或者懒才是真。其他朋友也没见怎么写，估计大家都比较忙吧。</p>
- <a id="more"></a>
-<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>   今年八月，在口袋香港工作了一年零一个月之后，我向我工作的第一家公司提出辞职。8月17日，我正式离开了这家公司。这里给了我第一份工作，我是很感激它的，若非事出突然，我也不想离开。离开对我而言，真是既喜又忧，喜在自己可以换个环境，去面对新的东西，忧在前途渺茫，像只没脚的小鸟。当然对我来说，除非是自己的事业，否则即便给我灌再多鸡汤，都很难给我公司是个家庭的感觉。对我而言，雇主们自己住在豪华别墅，开着顶级轿车，却也变相压榨这劳动者的价值，虽说确实是他们创造了就业机会，给了我们生存乃至于生活的可能，但是处于食物链的最低端，往往会觉得非常不甘心。又或者，是我太浮躁了吧。不管怎样，大方向是没错的，继续走就是了。</p>
-<h3 id="毕业"><a href="#毕业" class="headerlink" title="毕业"></a>毕业</h3><blockquote>
-<ul>
-<li>把头发梳成大人模样</li>
-</ul>
-</blockquote>
-<p>  严寒烈日，青年广场，孔子像前，摄像头对准形形色色的学子们，梳得整齐的头发，修长庄严的学士服，十二月是属于他们的月份，毕业的钟声敲响，他们即将走出校园，等待他们的是这个残酷的商业社会，然而他们的笑容却在回应着，他们可以面对这一切。铁打的营盘，流水的兵，跟我相熟的师兄师姐们一届接着一届走出了校门，终于到我们了！我的心情是凝重的，大概是在外面折腾了一年多，对美好的校园生活不免产生眷恋。但归根究底，眷恋地只是这些人，而不是校园。大学对我来说是一座围城，刚上大学不久，心里总是嘀咕着怎么快点出社会，早点去闯荡。走出去了，才发现外面有多么艰辛，多么疲惫，自己又是多么地桀骜不驯，妄自尊大。现在的我，多想常常回学校走走，不太喜欢以往的浪子心态，取而代之的是想让自己沉稳一些，老练一些，谦和一些。纵观大学四年，我大部分时间都献给了学习和工作，奋斗二字站在道德的制高点上绑架了自己，虽然增长了我的技能和见识，却也给了我无尽的疲惫和孤苦，倘若还能选择一次，我会取个中间值，在二者之间找到平衡点。事已至此，无论如何，还是非常感谢我的大学，认识了很多很棒的人，结交了很多好友，也学会了学习，做人，处事。</p>
-<h3 id="爱情"><a href="#爱情" class="headerlink" title="爱情"></a>爱情</h3><p>   今年，我终于谈恋爱了，迈出这一步对我而言，确实不易！一方面事业未定，前途未卜，另一方面我自知生性生性怯懦，幸运的是，那个月光慵懒的夜晚，在我紧握她的手腕之时，她答应了。那一夜，我开心得难以入眠。相处下来，偶有矛盾和口角，但都是我的错，我生性孤僻，不善言辞，常常忽略了她。加之我为人愚笨，驽钝不堪，没有很好地关心她，实在惭愧之至。开始总是轻描淡写，从朋友到恋人，关系变了，看待对方的眼光变了，暴露给对方的自己也更多了，女朋友说几乎重新认识了我这个人，但是在我眼里，她其实还是那样，单纯，善良，倔强，对人无微不至。新年伊始，元旦的时候，我们去旅游了，然而我表现非常糟糕，惹恼了她。回去之后，我曾多次反思，深感自己极度机器木讷，对感情非常迟钝，乃至于常常忽略身边的人。大一的时候，吕志和上台讲话的老师提倡同学们去谈恋爱，以前我不懂，现在总算是明白了，会关心别人，有同理心，站在别人的角度去思考问题，是一个男生必须具备的。对于我自己，我是很惭愧的。自己能力微弱，妄自尊大，天天做着白日梦，想着经济自由，时至今日却只能忧心无法给她幸福，担心会让她受委屈。现实残酷，现在的我努力工作，剑走偏锋，虽说是为了亲人能过上更好的生活，但诚然，如果一个人把事业看的比亲情爱情还重要，那么这个人的人生也是失败的。相信现在的自己，依然是笨蛋一个，但我会找到事业和爱情的平衡点，因为有些东西，一旦失去，就再也不会回来了。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;2016年总结&quot;&gt;&lt;a href=&quot;#2016年总结&quot; class=&quot;headerlink&quot; title=&quot;2016年总结&quot;&gt;&lt;/a&gt;2016年总结&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;那一天 我闭目在经殿香雾中 蓦然听见你颂经中的真言&lt;br&gt;那一月 我摇动所有的转经筒 不为超度 只为触摸你的指尖&lt;br&gt;那一年 我磕长头匍匐在山路 不为觐见 只为贴着你的温暖&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;又一年过去了，今年我的年终总结来得格外迟。究其原因，因为特别乏，没空是借口，没心情或者懒才是真。其他朋友也没见怎么写，估计大家都比较忙吧。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
-    
-    
-      <category term="年底总结" scheme="http://yoursite.com/tags/%E5%B9%B4%E5%BA%95%E6%80%BB%E7%BB%93/"/>
-    
-      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>单例模式</title>
-    <link href="http://yoursite.com/2016/11/28/singleton/"/>
-    <id>http://yoursite.com/2016/11/28/singleton/</id>
-    <published>2016-11-28T12:44:37.000Z</published>
-    <updated>2017-09-06T13:59:47.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>特点：<br>1.单例类只有一个实例<br>2.单例类必须自己创建自己的唯一实例<br>3.必须有私有的构造方法<br>4.单例类必须给所有其他对象提供这一实例,必须有一个以自己实例为返回值的静态公有方法</p>
-<h2 id="饿汉式单例模式"><a href="#饿汉式单例模式" class="headerlink" title="饿汉式单例模式"></a>饿汉式单例模式</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span></span>&#123;</div><div class="line">  <span class="keyword">private</span> <span class="keyword">static</span> Singleton singleton = <span class="keyword">new</span> Signleton();</div><div class="line">  <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span></span>&#123;&#125;</div><div class="line">  </div><div class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">    <span class="keyword">return</span> singleton;</div><div class="line">  &#125;  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<a id="more"></a>
-<h2 id="懒汉单例模式"><a href="#懒汉单例模式" class="headerlink" title="懒汉单例模式"></a>懒汉单例模式</h2><p>1.普通懒汉 （多线程会失败）</p>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> Singleton singleton;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span> </span>&#123;</div><div class="line"></div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">synchronized</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">        <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">            singleton = <span class="keyword">new</span> Singleton();</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> singleton;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>2.双重锁定检查 （DCL）</p>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">    <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">        <span class="keyword">synchronized</span> (Singleton.class)&#123;</div><div class="line">            <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">                singleton = <span class="keyword">new</span> Singleton();</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> singleton;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>3.延迟初始化占位（Holder）类模式</p>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span> </span>&#123;</div><div class="line"></div><div class="line"></div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> <span class="class"><span class="keyword">class</span> <span class="title">LazyHolder</span> </span>&#123;</div><div class="line">        <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">final</span> Singleton INSTANCE = <span class="keyword">new</span> Singleton();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span> </span>&#123;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">        <span class="keyword">return</span> LazyHolder.INSTANCE;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>第三种方式最优,一个静态内部类（占位类），在内部类中提前初始化实例，既保证了Singleton实例的延迟初始化，又保证了同步。这是一种提前初始化（饿汉式）和延迟初始化（懒汉式）的综合模式</p>
-<h3 id="优缺"><a href="#优缺" class="headerlink" title="优缺"></a>优缺</h3><p>优点</p>
-<ul>
-<li>节省内存空间（只有一个对象）</li>
-<li>避免频繁的开销</li>
-<li>避免对共享资源的多重占用</li>
-<li>全局访问</li>
-</ul>
-<p>缺点</p>
-<ul>
-<li>线程安全问题,饿汉式天生就是线程安全,懒汉式的话,为了线程安全的问题，才实现了以上三种方式。</li>
-</ul>
-<h3 id="三种懒汉模式的区别"><a href="#三种懒汉模式的区别" class="headerlink" title="三种懒汉模式的区别"></a>三种懒汉模式的区别</h3><p>1.在方法调用上加了同步关键字,虽然线程安全了，但每次都要同步，影响性能。非多线程环境下,基本99%的场景应该都不需要同步。<br>2.在getInstance中做了两次null检查,确保了只有第一次调用单例的时候才会做同步,解决了安全问题，也避免了资源消耗,但会存在指令重排序问题。<br>3.利用了classloader的机制来保证初始化instance时只有一个线程，所以也是线程安全的，同时没有性能损耗，所以一般我倾向于使用这一种。</p>
-<p>参考:</p>
-<p>1.<a href="http://blog.csdn.net/zhangzeyuaaa/article/details/42673245" target="_blank" rel="external">http://blog.csdn.net/zhangzeyuaaa/article/details/42673245</a><br>2.<a href="http://blog.csdn.net/jason0539/article/details/23297037/" target="_blank" rel="external">http://blog.csdn.net/jason0539/article/details/23297037/</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;特点：&lt;br&gt;1.单例类只有一个实例&lt;br&gt;2.单例类必须自己创建自己的唯一实例&lt;br&gt;3.必须有私有的构造方法&lt;br&gt;4.单例类必须给所有其他对象提供这一实例,必须有一个以自己实例为返回值的静态公有方法&lt;/p&gt;
-&lt;h2 id=&quot;饿汉式单例模式&quot;&gt;&lt;a href=&quot;#饿汉式单例模式&quot; class=&quot;headerlink&quot; title=&quot;饿汉式单例模式&quot;&gt;&lt;/a&gt;饿汉式单例模式&lt;/h2&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Singleton&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; Singleton singleton = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Signleton();&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Singleton&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&amp;#123;&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; Singleton &lt;span class=&quot;title&quot;&gt;getInstance&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; singleton;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;#125;  &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
-    
-    
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
-    
-      <category term="编程" scheme="http://yoursite.com/tags/%E7%BC%96%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>nginx反向代理</title>
-    <link href="http://yoursite.com/2016/05/16/nginxreverseproxy/"/>
-    <id>http://yoursite.com/2016/05/16/nginxreverseproxy/</id>
-    <published>2016-05-16T15:03:39.000Z</published>
-    <updated>2017-09-16T08:00:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<p> 今天遇到个问题:因为业务上的一些需求,我需要使用旧的asp的接口.请求旧接口的时候,有点悲剧，服务端没有做cors,也没采取jwt的方案。只能用代理把请求转发出去,才能拿到数据了</p>
-<img src="/blogger/2016/05/16/nginxreverseproxy/noallow.png" alt="如图" title="如图">
-<a id="more"></a>
-<h2 id="正向代理和反向代理的区别"><a href="#正向代理和反向代理的区别" class="headerlink" title="正向代理和反向代理的区别"></a>正向代理和反向代理的区别</h2><blockquote>
-<ul>
-<li>回来的路上,一个朋友问我正向代理和反向代理的区别,结果讲不出来</li>
-</ul>
-</blockquote>
-<p>正向代理:</p>
-<p>正向代理就是平时说的代理,比如我要访问一个网站,那个网站不给我访问,但是代理服务器可以访问,我就叫代理服务器去访问那个网站,然后拿到我想要的东西。说那么多,其实就是个跳板,用过翻墙软件的人 基本可以秒懂 !</p>
-<p>反向代理:</p>
-<p>客户端访问一个服务器A要数据包M,事实上服务器A没有数据包M,但是服务器B有数据包M,然后服务器A去服务器B那里拿数据包M,然后再返回给客户端。这里就可以说 服务器A设置了反向代理。对于客户端来说,服务器A就是提供原始服务的服务器。</p>
-<p>两者听起来好像没啥区别,区别就在于:1.正向代理,客户端需要设置一些东西,反向代理,客户端没啥好做的！2.正向代理的典型用途是为在防火墙内的局域网客户端提供访问Internet的途径。正向代理还可以使用缓冲特性减少网络使用率。(典型例子:通过vpn访问google)。反向代理的典型用途是将 防火墙后面的服务器提供给Internet用户访问。反向代理还可以为后端的多台服务器提供负载平衡，或为后端较慢的服务器提供缓冲服务。（典型例子:第三方的可以访问google的网站）3.正向代理允许客户端通过它访问任意网站并且隐藏客户端自身，因此你必须采取安全措施以确保仅为经过授权的客户端提供服务。<br>反向代理对外都是透明的，访问者并不知道自己访问的是一个代理。</p>
-<h2 id="nginx设置"><a href="#nginx设置" class="headerlink" title="nginx设置"></a>nginx设置</h2><p> nginx安装 就不多说了 网上一大把<br> 首先需要科普一下 nginx配置文件里面的东西 看这篇文章</p>
-<p> <a href="https://segmentfault.com/a/1190000002797601" target="_blank" rel="external">https://segmentfault.com/a/1190000002797601</a></p>
-<p> 我这里直入操作</p>
-<p> 第一步：<br> 编辑nginx的配置文件,我这里采用的是atom来进行编辑,当然因为vim比较蛋疼 我比较懒的缘故,基本上把proxy_pass跟主机名还有响应头设置好就可以了</p>
- <img src="/blogger/2016/05/16/nginxreverseproxy/nginxconf.png" alt="如图" title="如图">
-<p> 第二步：<br> 编辑host文件</p>
- <img src="/blogger/2016/05/16/nginxreverseproxy/host.png" alt="如图" title="如图">
-<p> 这样的话 访问流程就是</p>
-<p>  localhost:3000 -&gt; request -&gt; (proxy: apitest.com) -&gt; proxypass -&gt; (dist: www.xxxx.com) </p>
-<p>  第三步：<br>  客户端写个ajax去试验一下</p>
-  <img src="/blogger/2016/05/16/nginxreverseproxy/ajax.png" alt="如图" title="如图">
-<p>  200成功拿到数据！这样就不用搞cors或者jwt了,服务端在同域的设置下,你也可以这样子来做开发,最后改下主机名,然后把代码扔进去就可以了。</p>
-<p>  写的不好,有任何问题可以联系我。欢迎打脸,多学习交流！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt; 今天遇到个问题:因为业务上的一些需求,我需要使用旧的asp的接口.请求旧接口的时候,有点悲剧，服务端没有做cors,也没采取jwt的方案。只能用代理把请求转发出去,才能拿到数据了&lt;/p&gt;
-&lt;img src=&quot;/blogger/2016/05/16/nginxreverseproxy/noallow.png&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
-    
-    </summary>
-    
-      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
-    
-    
-      <category term="nginx" scheme="http://yoursite.com/tags/nginx/"/>
-    
-      <category term="服务器" scheme="http://yoursite.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
-      <category term="反向代理" scheme="http://yoursite.com/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>迁移你的eclipse项目到IntellJIDEA</title>
-    <link href="http://yoursite.com/2016/03/22/eclipse2Ij/"/>
-    <id>http://yoursite.com/2016/03/22/eclipse2Ij/</id>
-    <published>2016-03-22T13:35:55.000Z</published>
-    <updated>2017-09-16T06:48:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>图片居多,跟着图来做即可</p>
-<h3 id="step1"><a href="#step1" class="headerlink" title="step1."></a>step1.</h3><p> 打开IJ,选择导入你的eclipse项目,跟着下面三幅图操作吧！</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/1.png" alt="如图" title="如图">
- <a id="more"></a>
-<img src="/blogger/2016/03/22/eclipse2Ij/2.png" alt="如图" title="如图">
-<img src="/blogger/2016/03/22/eclipse2Ij/3.png" alt="如图" title="如图">
-<h3 id="step2"><a href="#step2" class="headerlink" title="step2."></a>step2.</h3><p>导入之后 肯定报一大堆错误,其实只要重新调整一下项目的结构即可</p>
-<ol>
-<li>project那个项 基本不需要看 大概知道每个啥意思就可以了2. </li>
-<li>选择module模块,点击+号,把项目加载进来，注意选择成web工程！</li>
-<li>点击你的项目,添加一个ApplicationServerlibrary,因为后面要使用tomcat,所以要在这里加入对应的library</li>
-<li>加入tomcat之后呢,点击web,选择成为web工程之后,肯定要配置一下对应的东西不是?</li>
-</ol>
-<img src="/blogger/2016/03/22/eclipse2Ij/4.png" alt="如图" title="如图">
-<ol>
-<li>右上部分选择的是web.xml的配置文件的路径</li>
-<li>右下部分选的是的webContent的目录</li>
-</ol>
-<img src="/blogger/2016/03/22/eclipse2Ij/5.png" alt="如图" title="如图">
-<h3 id="step3"><a href="#step3" class="headerlink" title="step3"></a>step3</h3><p>把工程目录建立好之后,下一步就是引jar了,点+号你的项目对应的放jar的目录即可</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/6.png" alt="如图" title="如图">
-<h3 id="step4"><a href="#step4" class="headerlink" title="step4"></a>step4</h3><p>接下来建立一个Facets</p>
-<p>基本上跟module的web部分的配置一样<br>右上是web.xml,右下是WebContent的目录,配置好这两步的时候右下角会有警告,就是要我们去弄Artifacts</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/7.png" alt="如图" title="如图">
-<h3 id="step5"><a href="#step5" class="headerlink" title="step5"></a>step5</h3><p> artifacets翻译过来是工件,个人愚见,应该是指工程里面某个阶段的产物!在这里！讲的那么高大上,其实就是要你配置一下打包输出的目录即可</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/8.png" alt="如图" title="如图">
-<img src="/blogger/2016/03/22/eclipse2Ij/9.png" alt="如图" title="如图">
-<h3 id="step6"><a href="#step6" class="headerlink" title="step6"></a>step6</h3><p>接下来是tomcat的配置,看图应该都懂的了,最后点击三角形跑起来</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/10.png" alt="如图" title="如图">
-<img src="/blogger/2016/03/22/eclipse2Ij/11.png" alt="如图" title="如图">
-<p>恭喜恭喜</p>
-<img src="/blogger/2016/03/22/eclipse2Ij/12.png" alt="如图" title="如图">
-<p>结语:<br>   时间仓促,写的不好,有任何问题都可以联系我!</p>
-<p><a href="http://weibo.com/3758959647/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" rel="external">微博</a></p>
-<p>email:lizhixiong498056754@gmail.com</p>
-<p><a href="https://github.com/jacsonLee" target="_blank" rel="external">Github</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;图片居多,跟着图来做即可&lt;/p&gt;
-&lt;h3 id=&quot;step1&quot;&gt;&lt;a href=&quot;#step1&quot; class=&quot;headerlink&quot; title=&quot;step1.&quot;&gt;&lt;/a&gt;step1.&lt;/h3&gt;&lt;p&gt; 打开IJ,选择导入你的eclipse项目,跟着下面三幅图操作吧！&lt;/p&gt;
-&lt;img src=&quot;/blogger/2016/03/22/eclipse2Ij/1.png&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
-    
-    </summary>
-    
-      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
-    
-    
-      <category term="eclipse" scheme="http://yoursite.com/tags/eclipse/"/>
-    
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
-    
-      <category term="IntellJIDEA" scheme="http://yoursite.com/tags/IntellJIDEA/"/>
-    
-  </entry>
-  
-  <entry>
     <title>写在年末</title>
-    <link href="http://yoursite.com/2015/12/31/WriteInTheEndOfYear/"/>
-    <id>http://yoursite.com/2015/12/31/WriteInTheEndOfYear/</id>
-    <published>2015-12-31T14:04:47.000Z</published>
+    <link href="http://yoursite.com/2017/09/16/WriteInTheEndOfYear/"/>
+    <id>http://yoursite.com/2017/09/16/WriteInTheEndOfYear/</id>
+    <published>2017-09-16T08:21:20.000Z</published>
     <updated>2017-09-16T08:21:20.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="写在年末"><a href="#写在年末" class="headerlink" title="写在年末"></a>写在年末</h1><blockquote>
@@ -393,31 +180,204 @@
   </entry>
   
   <entry>
+    <title>2016总结</title>
+    <link href="http://yoursite.com/2017/09/16/2016summary/"/>
+    <id>http://yoursite.com/2017/09/16/2016summary/</id>
+    <published>2017-09-16T08:20:20.000Z</published>
+    <updated>2017-09-16T08:20:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2016年总结"><a href="#2016年总结" class="headerlink" title="2016年总结"></a>2016年总结</h2><blockquote>
+<ul>
+<li>那一天 我闭目在经殿香雾中 蓦然听见你颂经中的真言<br>那一月 我摇动所有的转经筒 不为超度 只为触摸你的指尖<br>那一年 我磕长头匍匐在山路 不为觐见 只为贴着你的温暖</li>
+</ul>
+</blockquote>
+<p>又一年过去了，今年我的年终总结来得格外迟。究其原因，因为特别乏，没空是借口，没心情或者懒才是真。其他朋友也没见怎么写，估计大家都比较忙吧。</p>
+ <a id="more"></a>
+<h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>   今年八月，在口袋香港工作了一年零一个月之后，我向我工作的第一家公司提出辞职。8月17日，我正式离开了这家公司。这里给了我第一份工作，我是很感激它的，若非事出突然，我也不想离开。离开对我而言，真是既喜又忧，喜在自己可以换个环境，去面对新的东西，忧在前途渺茫，像只没脚的小鸟。当然对我来说，除非是自己的事业，否则即便给我灌再多鸡汤，都很难给我公司是个家庭的感觉。对我而言，雇主们自己住在豪华别墅，开着顶级轿车，却也变相压榨这劳动者的价值，虽说确实是他们创造了就业机会，给了我们生存乃至于生活的可能，但是处于食物链的最低端，往往会觉得非常不甘心。又或者，是我太浮躁了吧。不管怎样，大方向是没错的，继续走就是了。</p>
+<h3 id="毕业"><a href="#毕业" class="headerlink" title="毕业"></a>毕业</h3><blockquote>
+<ul>
+<li>把头发梳成大人模样</li>
+</ul>
+</blockquote>
+<p>  严寒烈日，青年广场，孔子像前，摄像头对准形形色色的学子们，梳得整齐的头发，修长庄严的学士服，十二月是属于他们的月份，毕业的钟声敲响，他们即将走出校园，等待他们的是这个残酷的商业社会，然而他们的笑容却在回应着，他们可以面对这一切。铁打的营盘，流水的兵，跟我相熟的师兄师姐们一届接着一届走出了校门，终于到我们了！我的心情是凝重的，大概是在外面折腾了一年多，对美好的校园生活不免产生眷恋。但归根究底，眷恋地只是这些人，而不是校园。大学对我来说是一座围城，刚上大学不久，心里总是嘀咕着怎么快点出社会，早点去闯荡。走出去了，才发现外面有多么艰辛，多么疲惫，自己又是多么地桀骜不驯，妄自尊大。现在的我，多想常常回学校走走，不太喜欢以往的浪子心态，取而代之的是想让自己沉稳一些，老练一些，谦和一些。纵观大学四年，我大部分时间都献给了学习和工作，奋斗二字站在道德的制高点上绑架了自己，虽然增长了我的技能和见识，却也给了我无尽的疲惫和孤苦，倘若还能选择一次，我会取个中间值，在二者之间找到平衡点。事已至此，无论如何，还是非常感谢我的大学，认识了很多很棒的人，结交了很多好友，也学会了学习，做人，处事。</p>
+<h3 id="爱情"><a href="#爱情" class="headerlink" title="爱情"></a>爱情</h3><p>   今年，我终于谈恋爱了，迈出这一步对我而言，确实不易！一方面事业未定，前途未卜，另一方面我自知生性生性怯懦，幸运的是，那个月光慵懒的夜晚，在我紧握她的手腕之时，她答应了。那一夜，我开心得难以入眠。相处下来，偶有矛盾和口角，但都是我的错，我生性孤僻，不善言辞，常常忽略了她。加之我为人愚笨，驽钝不堪，没有很好地关心她，实在惭愧之至。开始总是轻描淡写，从朋友到恋人，关系变了，看待对方的眼光变了，暴露给对方的自己也更多了，女朋友说几乎重新认识了我这个人，但是在我眼里，她其实还是那样，单纯，善良，倔强，对人无微不至。新年伊始，元旦的时候，我们去旅游了，然而我表现非常糟糕，惹恼了她。回去之后，我曾多次反思，深感自己极度机器木讷，对感情非常迟钝，乃至于常常忽略身边的人。大一的时候，吕志和上台讲话的老师提倡同学们去谈恋爱，以前我不懂，现在总算是明白了，会关心别人，有同理心，站在别人的角度去思考问题，是一个男生必须具备的。对于我自己，我是很惭愧的。自己能力微弱，妄自尊大，天天做着白日梦，想着经济自由，时至今日却只能忧心无法给她幸福，担心会让她受委屈。现实残酷，现在的我努力工作，剑走偏锋，虽说是为了亲人能过上更好的生活，但诚然，如果一个人把事业看的比亲情爱情还重要，那么这个人的人生也是失败的。相信现在的自己，依然是笨蛋一个，但我会找到事业和爱情的平衡点，因为有些东西，一旦失去，就再也不会回来了。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;2016年总结&quot;&gt;&lt;a href=&quot;#2016年总结&quot; class=&quot;headerlink&quot; title=&quot;2016年总结&quot;&gt;&lt;/a&gt;2016年总结&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;那一天 我闭目在经殿香雾中 蓦然听见你颂经中的真言&lt;br&gt;那一月 我摇动所有的转经筒 不为超度 只为触摸你的指尖&lt;br&gt;那一年 我磕长头匍匐在山路 不为觐见 只为贴着你的温暖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;又一年过去了，今年我的年终总结来得格外迟。究其原因，因为特别乏，没空是借口，没心情或者懒才是真。其他朋友也没见怎么写，估计大家都比较忙吧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="年底总结" scheme="http://yoursite.com/tags/%E5%B9%B4%E5%BA%95%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2014总结</title>
+    <link href="http://yoursite.com/2017/09/16/2014summary/"/>
+    <id>http://yoursite.com/2017/09/16/2014summary/</id>
+    <published>2017-09-16T08:07:27.000Z</published>
+    <updated>2017-09-16T08:07:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="志雄的2014-gt-2015"><a href="#志雄的2014-gt-2015" class="headerlink" title="志雄的2014-&gt;2015"></a><a href="https://github.com/jacsonLee" target="_blank" rel="external">志雄</a>的2014-&gt;2015</h2><h2 id="一-总结"><a href="#一-总结" class="headerlink" title="一.总结"></a>一.总结</h2><blockquote>
+<ul>
+<li>总结可以让你更清晰地看到自己。亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳</li>
+</ul>
+</blockquote>
+<p>2014总体还是比较好的.算是在Android这一块摸到了一些门道，开始每天逛github,starupnews,startupnews,做了一些实际的项目.但是Android技术方面感觉到达了一个不上不下的状态，所以开始研究一些和应用层面联系多的。例如内存和性能方面。也开始着手做一些更难的东西。目前的话，也开始着手学习一些web方面的知识,应用开发必须成为迈过去的一道坎。</p>
+ <a id="more"></a>
+<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><ul>
+<li>读了吴军博士的《浪潮之巅》.读完《黑客与画家》.都是深度阅读.各种刷知乎，微博，Quora,知识面相比大一的时候提高了一个层次.</li>
+<li>开始规划管理自己的时间，并用倒计时来警醒自己.</li>
+<li>开始写技术博客.</li>
+<li>在Android学习上有了不少进步。做了一些实际的项目，虽然有些只验收了第一期。</li>
+<li>参加了软件设计大赛，幸运地抱着大腿拿了第一。项目还让一些公司的老总看上了，但是感觉都是坑，目测是拉我们进去干他们的事情。最后项目是拿去参加挑战杯了.</li>
+<li>开始学习了一些web方面的知识,有php，js等</li>
+</ul>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><ul>
+<li>跟同学朋友，还有工作室的人的关系越来越好了。本来以为自己情商低得不行，但是与人相处的能力还是有那么一点的</li>
+<li>每晚都开始反思自己一天做的有什么不对的地方。</li>
+<li>交了一哥这个湖南来的朋友，他给我讲了很多东西，也教了我很多做人的道理，当然我们也是好哥们。</li>
+</ul>
+<h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><h3 id="学习-1"><a href="#学习-1" class="headerlink" title="学习"></a>学习</h3><ul>
+<li>书看得还是比较少，当然看了不少博客，但是鲜有自己动手做得时候，懒，这个要改</li>
+<li>对很多Android的东西没去理解原理就用了。</li>
+<li>总结还是太少了,博客写的也少，总归是因为自己太渣，没多少营养品可以输出.</li>
+<li>对学习没有大一的时候那么狂热认真了。开始有点愚蠢的骄傲。</li>
+<li>没有了那种初学者的心态。做事情想着走捷径。</li>
+</ul>
+<h3 id="生活-1"><a href="#生活-1" class="headerlink" title="生活"></a>生活</h3><ul>
+<li>开始变得越来越懒了，因为在工作室待了一年的缘故，慢慢变得老油条了</li>
+<li>丧失了对梦想的狂热追求，不得不感叹环境对人的影响真是大。当你长期处于一种环境，会渐渐被环境里面的人潜移默化。当然我并不是说工作室里面的人懒散,我说的是大环境。这种感觉真是可怕。所以我要用时间倒计时来鞭策自己。</li>
+<li>有时候说话不小心，很容易说错话。都是因为一直以来直来直去的原因，搞得说话不经过大脑。有好几次在待人处事上做的非常不好，英爷都是不留情面的批评我。忠言逆耳啊！换了以前的话,我肯定找理由为自己开脱。但现在不会了,也许是受身边的人影响吧.</li>
+</ul>
+<h2 id="展望2015"><a href="#展望2015" class="headerlink" title="展望2015"></a>展望2015</h2><p>2015给了自己一些计划，由于我还是个大二狗，可能有一些实现不了，但是还是写下来吧。</p>
+<ul>
+<li>买台mac(自己赚钱)</li>
+<li>买台iphone(自己赚钱)</li>
+<li>买台Nexus(自己赚钱)</li>
+<li>深入学习Android的库</li>
+<li>开始学习并做一些后端的项目</li>
+<li>顺路学一些前端框架</li>
+<li>开始深入学习数据结构，编译原理等计算机专业的知识,有空的话，可以搞一下算法，应用开发这一块必须成为迈过去的坎。</li>
+<li>把更多的时间放在学习上，尽量远离QQ，微信这些毒瘤，只允许他们成为我的工具。</li>
+<li>多写一些blog.最好是纯技术输出的文章.</li>
+<li>多做一些个人的app或者多接一些外包(学生有外包做，很开心啦).想赚多点钱，不是因为喜欢钱，而是喜欢独立.到了这个年龄，想自己养活自己,不想受社会这个庞大的机器压迫.</li>
+<li>找回大一时候的狂热，保持一种初学者的心态，别再忘记自己要去干什么。</li>
+<li>增强与人交流的技巧，这个太重要了。做事难，做人更难。要学做事，更要学做人。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;志雄的2014-gt-2015&quot;&gt;&lt;a href=&quot;#志雄的2014-gt-2015&quot; class=&quot;headerlink&quot; title=&quot;志雄的2014-&amp;gt;2015&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/jacsonLee&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;志雄&lt;/a&gt;的2014-&amp;gt;2015&lt;/h2&gt;&lt;h2 id=&quot;一-总结&quot;&gt;&lt;a href=&quot;#一-总结&quot; class=&quot;headerlink&quot; title=&quot;一.总结&quot;&gt;&lt;/a&gt;一.总结&lt;/h2&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;总结可以让你更清晰地看到自己。亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2014总体还是比较好的.算是在Android这一块摸到了一些门道，开始每天逛github,starupnews,startupnews,做了一些实际的项目.但是Android技术方面感觉到达了一个不上不下的状态，所以开始研究一些和应用层面联系多的。例如内存和性能方面。也开始着手做一些更难的东西。目前的话，也开始着手学习一些web方面的知识,应用开发必须成为迈过去的一道坎。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="年底总结" scheme="http://yoursite.com/tags/%E5%B9%B4%E5%BA%95%E6%80%BB%E7%BB%93/"/>
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx反向代理</title>
+    <link href="http://yoursite.com/2017/09/16/nginxreverseproxy/"/>
+    <id>http://yoursite.com/2017/09/16/nginxreverseproxy/</id>
+    <published>2017-09-16T08:00:06.000Z</published>
+    <updated>2017-09-16T08:00:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 今天遇到个问题:因为业务上的一些需求,我需要使用旧的asp的接口.请求旧接口的时候,有点悲剧，服务端没有做cors,也没采取jwt的方案。只能用代理把请求转发出去,才能拿到数据了</p>
+<img src="/blogger/2017/09/16/nginxreverseproxy/noallow.png" alt="如图" title="如图">
+<a id="more"></a>
+<h2 id="正向代理和反向代理的区别"><a href="#正向代理和反向代理的区别" class="headerlink" title="正向代理和反向代理的区别"></a>正向代理和反向代理的区别</h2><blockquote>
+<ul>
+<li>回来的路上,一个朋友问我正向代理和反向代理的区别,结果讲不出来</li>
+</ul>
+</blockquote>
+<p>正向代理:</p>
+<p>正向代理就是平时说的代理,比如我要访问一个网站,那个网站不给我访问,但是代理服务器可以访问,我就叫代理服务器去访问那个网站,然后拿到我想要的东西。说那么多,其实就是个跳板,用过翻墙软件的人 基本可以秒懂 !</p>
+<p>反向代理:</p>
+<p>客户端访问一个服务器A要数据包M,事实上服务器A没有数据包M,但是服务器B有数据包M,然后服务器A去服务器B那里拿数据包M,然后再返回给客户端。这里就可以说 服务器A设置了反向代理。对于客户端来说,服务器A就是提供原始服务的服务器。</p>
+<p>两者听起来好像没啥区别,区别就在于:1.正向代理,客户端需要设置一些东西,反向代理,客户端没啥好做的！2.正向代理的典型用途是为在防火墙内的局域网客户端提供访问Internet的途径。正向代理还可以使用缓冲特性减少网络使用率。(典型例子:通过vpn访问google)。反向代理的典型用途是将 防火墙后面的服务器提供给Internet用户访问。反向代理还可以为后端的多台服务器提供负载平衡，或为后端较慢的服务器提供缓冲服务。（典型例子:第三方的可以访问google的网站）3.正向代理允许客户端通过它访问任意网站并且隐藏客户端自身，因此你必须采取安全措施以确保仅为经过授权的客户端提供服务。<br>反向代理对外都是透明的，访问者并不知道自己访问的是一个代理。</p>
+<h2 id="nginx设置"><a href="#nginx设置" class="headerlink" title="nginx设置"></a>nginx设置</h2><p> nginx安装 就不多说了 网上一大把<br> 首先需要科普一下 nginx配置文件里面的东西 看这篇文章</p>
+<p> <a href="https://segmentfault.com/a/1190000002797601" target="_blank" rel="external">https://segmentfault.com/a/1190000002797601</a></p>
+<p> 我这里直入操作</p>
+<p> 第一步：<br> 编辑nginx的配置文件,我这里采用的是atom来进行编辑,当然因为vim比较蛋疼 我比较懒的缘故,基本上把proxy_pass跟主机名还有响应头设置好就可以了</p>
+ <img src="/blogger/2017/09/16/nginxreverseproxy/nginxconf.png" alt="如图" title="如图">
+<p> 第二步：<br> 编辑host文件</p>
+ <img src="/blogger/2017/09/16/nginxreverseproxy/host.png" alt="如图" title="如图">
+<p> 这样的话 访问流程就是</p>
+<p>  localhost:3000 -&gt; request -&gt; (proxy: apitest.com) -&gt; proxypass -&gt; (dist: www.xxxx.com) </p>
+<p>  第三步：<br>  客户端写个ajax去试验一下</p>
+  <img src="/blogger/2017/09/16/nginxreverseproxy/ajax.png" alt="如图" title="如图">
+<p>  200成功拿到数据！这样就不用搞cors或者jwt了,服务端在同域的设置下,你也可以这样子来做开发,最后改下主机名,然后把代码扔进去就可以了。</p>
+<p>  写的不好,有任何问题可以联系我。欢迎打脸,多学习交流！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 今天遇到个问题:因为业务上的一些需求,我需要使用旧的asp的接口.请求旧接口的时候,有点悲剧，服务端没有做cors,也没采取jwt的方案。只能用代理把请求转发出去,才能拿到数据了&lt;/p&gt;
+&lt;img src=&quot;/blogger/2017/09/16/nginxreverseproxy/noallow.png&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
+    
+    
+      <category term="nginx" scheme="http://yoursite.com/tags/nginx/"/>
+    
+      <category term="服务器" scheme="http://yoursite.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+      <category term="反向代理" scheme="http://yoursite.com/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>web前端页面速度优化的多条建议</title>
-    <link href="http://yoursite.com/2015/11/01/webPerformance/"/>
-    <id>http://yoursite.com/2015/11/01/webPerformance/</id>
-    <published>2015-11-01T09:21:50.000Z</published>
+    <link href="http://yoursite.com/2017/09/16/webPerformance/"/>
+    <id>http://yoursite.com/2017/09/16/webPerformance/</id>
+    <published>2017-09-16T07:52:35.000Z</published>
     <updated>2017-09-16T07:52:35.000Z</updated>
     
     <content type="html"><![CDATA[<p>Web性能优化这个词既可以解读成页面加载速度（Page Speed）的优化，也可以解读成页面渲染性能（Page Performance）的优化。或者是二者的集合。</p>
 <h3 id="1-合并静态资源-进来减少HTTP请求个数"><a href="#1-合并静态资源-进来减少HTTP请求个数" class="headerlink" title="1.合并静态资源,进来减少HTTP请求个数"></a>1.合并静态资源,进来减少HTTP请求个数</h3><p>包括CSS、JavaScript和小图片，减少HTTP请求.但是又要合适考虑合并之后的文件体积,具体合并与否需要看场景</p>
-<img src="/blogger/2015/11/01/webPerformance/mergestaticRes.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/mergestaticRes.jpg" alt="如图" title="如图">
  <a id="more"></a>
 <h3 id="2-使用CDN"><a href="#2-使用CDN" class="headerlink" title="2.使用CDN"></a>2.使用CDN</h3><p>或者一些公共库使用第三方提供的静态资源地址(比如Jquery,normalize.css).一方面增加并发下载量,另一方面能够和其他网站共享缓存.</p>
-<img src="/blogger/2015/11/01/webPerformance/cdn.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/cdn.jpg" alt="如图" title="如图">
 <h3 id="3-添加Expire-Cache-Control头"><a href="#3-添加Expire-Cache-Control头" class="headerlink" title="3.添加Expire/Cache-Control头"></a>3.添加Expire/Cache-Control头</h3><p>Expire:expire的内容是一个时间值,值就是资源在本地的过期时间,存在本地,在本地缓存阶段,找到一个对应的资源值.如果当前时间还没有超过资源的过期时间,就直接使用哪个这一本地资源,不会发送http请求.<br>Cache-Control:顾名思义，这个是负责页面缓存机制的头,如果该头部指示缓存,缓存的内容也会存在本地.但相比Expire,Cache-Control有更多的选项,也有更多的处理方式</p>
-<img src="/blogger/2015/11/01/webPerformance/expire.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/expire.jpg" alt="如图" title="如图">
 <h3 id="4-开启服务器端的Gzip压缩"><a href="#4-开启服务器端的Gzip压缩" class="headerlink" title="4.开启服务器端的Gzip压缩"></a>4.开启服务器端的Gzip压缩</h3><p>这对文本资源非常有效,对图片资源则没有那么大的压缩比例.</p>
-<img src="/blogger/2015/11/01/webPerformance/compress.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/compress.jpg" alt="如图" title="如图">
 <h3 id="5-把CSS放到页面头部-把Javascript放在页面底部"><a href="#5-把CSS放到页面头部-把Javascript放在页面底部" class="headerlink" title="5.把CSS放到页面头部,把Javascript放在页面底部"></a>5.把CSS放到页面头部,把Javascript放在页面底部</h3><p>因为浏览器先解析html+css,把结构给显示出来,如果先执行javascript脚本,则会阻塞页面渲染,让页面出现长时间的空白</p>
 <h3 id="6-避免在CSS中使用Expressions"><a href="#6-避免在CSS中使用Expressions" class="headerlink" title="6.避免在CSS中使用Expressions"></a>6.避免在CSS中使用Expressions</h3><p>简单举个CSS表达式的例子:</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div></pre></td><td class="code"><pre><div class="line">&lt;html&gt;</div><div class="line">&lt;script type=&quot;text/javascript&quot;&gt;</div><div class="line">	var i = 0;</div><div class="line">	function scare()&#123;</div><div class="line">		i++;</div><div class="line">		document.getElementById(&apos;run&apos;).value = i;</div><div class="line">		return;</div><div class="line">	&#125;</div><div class="line">&lt;/script&gt;</div><div class="line">&lt;style type=&quot;text/css&quot;&gt;</div><div class="line">ul a &#123;witdh:expression(this.offsetWidth &gt; 750 ? scare() : scare());&#125;</div><div class="line">&lt;/style&gt;</div><div class="line">&lt;body&gt;</div><div class="line">当鼠标移动时,cssExpression计算了&lt;input id=&quot;run&quot;&gt;次</div><div class="line">&lt;ul&gt;</div><div class="line">  &lt;li&gt;&lt;a href=&quot;http://www.baidu.com&quot;&gt;aaa&lt;/li&gt;</div><div class="line">  &lt;li&gt;&lt;a href=&quot;http://www.baidu.com&quot;&gt;bbb&lt;/li&gt;</div><div class="line">  &lt;li&gt;&lt;a href=&quot;http://www.baidu.com&quot;&gt;ccc&lt;/li&gt;</div><div class="line">&lt;/ul&gt;</div><div class="line">&lt;/body&gt;</div><div class="line">&lt;html&gt;</div></pre></td></tr></table></figure>
-<img src="/blogger/2015/11/01/webPerformance/runNumber.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/runNumber.jpg" alt="如图" title="如图">
 <h3 id="7-避免空的src和href"><a href="#7-避免空的src和href" class="headerlink" title="7.避免空的src和href"></a>7.避免空的src和href</h3><p>留意具有这两个属性的标签如link，script，img，iframe等；src被javascript动态赋值的时候,会发多一个http请求,href标签也是同理。</p>
 <h3 id="8-将CSS和JS放到外部文件"><a href="#8-将CSS和JS放到外部文件" class="headerlink" title="8.将CSS和JS放到外部文件"></a>8.将CSS和JS放到外部文件</h3><p>如果部分css跟js只在一个页面出现,则可以考虑css内联。重用的css跟javascript则单独放置于外部.</p>
-<h3 id="9-减少DNS查询"><a href="#9-减少DNS查询" class="headerlink" title="9.减少DNS查询"></a>9.减少DNS查询</h3><p>当你输入www.baidu.com到你的浏览器时，一个连接到你的浏览器的DNS解析器返回该服务器的IP地址.DNS查询是有代价的。通常，需要20-120毫秒查找特定主机名的IP地址。在DNS查询完成前，浏览器无法从该主机下载任何东西。为了更好的性能表现，DNS查询是被缓存的。在一个特殊的缓存服务器上可以缓存这些信息，它由用户的ISP或局域网设备维护，同时用户的计算机也由缓存。DNS信息仍保留在操作系统的DNS缓存中（。大多数浏览器都有自己的缓存，它们独立于操作系统的缓存。只要浏览器在自己的缓存中有了DNS记录，它不会为每个请求都访问操作系统中的记录.当客户端的DNS缓存是空的（包括浏览器和操作系统），DNS查询数目等于网页中独立的主机名数量。这包括在网页的网址，图片，脚本，样式，Flash等等的URL中。减少独立的主机名数量就减少了DNS查询次数.减少了独特的主机名有可能减少该网页中并行下载的能力。避免DNS查询减少了响应时间，但是减少并行下载能力可能会增加响应时间。我的准则就是这些组件至少两个主机名，但不超过4个。这样做就可以很好的折衷减少DNS查询，并有高度的并行下载能力.<br><img src="/blogger/2015/11/01/webPerformance/DNSSearch.jpg" alt="如图" title="如图"><br>浏览器缓存时间<br><img src="/blogger/2015/11/01/webPerformance/browserCache.jpg" alt="如图" title="如图"><br>缓存时间长：减少DNS重复查找,节省时间<br>缓存时间短：及时检测服务器的变化,保证正确性</p>
+<h3 id="9-减少DNS查询"><a href="#9-减少DNS查询" class="headerlink" title="9.减少DNS查询"></a>9.减少DNS查询</h3><p>当你输入www.baidu.com到你的浏览器时，一个连接到你的浏览器的DNS解析器返回该服务器的IP地址.DNS查询是有代价的。通常，需要20-120毫秒查找特定主机名的IP地址。在DNS查询完成前，浏览器无法从该主机下载任何东西。为了更好的性能表现，DNS查询是被缓存的。在一个特殊的缓存服务器上可以缓存这些信息，它由用户的ISP或局域网设备维护，同时用户的计算机也由缓存。DNS信息仍保留在操作系统的DNS缓存中（。大多数浏览器都有自己的缓存，它们独立于操作系统的缓存。只要浏览器在自己的缓存中有了DNS记录，它不会为每个请求都访问操作系统中的记录.当客户端的DNS缓存是空的（包括浏览器和操作系统），DNS查询数目等于网页中独立的主机名数量。这包括在网页的网址，图片，脚本，样式，Flash等等的URL中。减少独立的主机名数量就减少了DNS查询次数.减少了独特的主机名有可能减少该网页中并行下载的能力。避免DNS查询减少了响应时间，但是减少并行下载能力可能会增加响应时间。我的准则就是这些组件至少两个主机名，但不超过4个。这样做就可以很好的折衷减少DNS查询，并有高度的并行下载能力.<br><img src="/blogger/2017/09/16/webPerformance/DNSSearch.jpg" alt="如图" title="如图"><br>浏览器缓存时间<br><img src="/blogger/2017/09/16/webPerformance/browserCache.jpg" alt="如图" title="如图"><br>缓存时间长：减少DNS重复查找,节省时间<br>缓存时间短：及时检测服务器的变化,保证正确性</p>
 <p>所以可以根据网站性质的不同 做不同的处理,确定用几个域名来处理自己的网站是最合适的</p>
-<img src="/blogger/2015/11/01/webPerformance/areadiff.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/areadiff.jpg" alt="如图" title="如图">
 <h3 id="10-压缩源码和图片"><a href="#10-压缩源码和图片" class="headerlink" title="10.压缩源码和图片"></a>10.压缩源码和图片</h3><p>JavaScript文件源代码可以采用混淆压缩的方式，CSS文件源代码进行普通压缩，JPG图片可以根据具体质量来压缩为50%到70%，PNG可以使用一些开源压缩软件来压缩，比如24色变成8色、去掉一些PNG格式信息等.可以考虑压缩工具JSMin和YUICompressor</p>
 <h3 id="11-避免跳转-重定向"><a href="#11-避免跳转-重定向" class="headerlink" title="11.避免跳转,重定向"></a>11.避免跳转,重定向</h3><p>重定向一般使用301或302状态码完成.来看一个http头中的301响应的重定向：<br>HTTP/1.1 301 Moved Permanently<br>Location: <a href="http://example.com/newuri" target="_blank" rel="external">http://example.com/newuri</a><br>Content-Type: text/html<br>浏览器会自动将用户重定向到Location字段中指定的网址。所有必要的信息都在头信息中。响应体通常是空的。301、302响应是在实际中是不缓存的，除非特地用Expires或Cache-Control表明。HTML的Meta Refresh标签或用JavaScript也可以将用户定向到不同的网址，但如果你必须做重定向，首选的方法是使用标准的3xx HTTP状态码，主要是为了确保浏览器后退按钮的正常工作.<br>其中最浪费的重定向频繁地发生和Web开发人员通常都不知道这件事。它发生在结尾缺少斜线“/”的URL，结尾应该有“/”。例如，要访问<a href="http://astrology.yahoo.com/astrology，结果一个301响应重定向到了http://astrology.yahoo.com/astrology/（注意“/”）。" target="_blank" rel="external">http://astrology.yahoo.com/astrology，结果一个301响应重定向到了http://astrology.yahoo.com/astrology/（注意“/”）。</a><br>如果你使用的是Apache，在其中使用Alias或mod_rewrite或DirectorySlash指令修复了这个问题。如果两个代码路径托管在同一台服务器上，替代方式是使用Alias和mod_rewrite。如果一个域名变化的原因需要使用重定向，替代方式是创建CNAME（一个DNS记录，创造了一个指向另一个网域名称的别名），结合使用Alias或mod_rewrite 。</p>
 <h3 id="12-剔除重复的JS和css"><a href="#12-剔除重复的JS和css" class="headerlink" title="12.剔除重复的JS和css"></a>12.剔除重复的JS和css</h3><p>重复调用脚本,一方面增加额外的http请求,另一方面还会造成多次运算.IE和Firefox不管脚本是否缓存,都会重复计算javascript.</p>
@@ -427,7 +387,7 @@
 <h3 id="14-选择合适的图片格式"><a href="#14-选择合适的图片格式" class="headerlink" title="14.选择合适的图片格式"></a>14.选择合适的图片格式</h3><p>如果图片颜色数较多就使用JPG格式，如果图片颜色数较少就使用PNG格式，如果能够通过服务器端判断浏览器支持WebP，那么就使用WebP格式和SVG格式.</p>
 <h3 id="15-使用AJAX可缓存"><a href="#15-使用AJAX可缓存" class="headerlink" title="15.使用AJAX可缓存"></a>15.使用AJAX可缓存</h3><p>利用时间戳,更精巧的实现响应可缓存与服务器数据同步更新</p>
 <h3 id="16-使用GET来完成AJAX请求"><a href="#16-使用GET来完成AJAX请求" class="headerlink" title="16.使用GET来完成AJAX请求"></a>16.使用GET来完成AJAX请求</h3><p>当使用XMLHttpRequest时,浏览器中的POST方法是一个“两步走”的过程:首先发送文件头,然后才发送数据.在url小于2K时使用GET获取数据。</p>
-<img src="/blogger/2015/11/01/webPerformance/getajax.jpg" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/webPerformance/getajax.jpg" alt="如图" title="如图">
 <h3 id="17-组件延迟加载"><a href="#17-组件延迟加载" class="headerlink" title="17.组件延迟加载"></a>17.组件延迟加载</h3><p>哪些是渲染这个页面必需的。剩下的内容都可以等到后来加载.<br>JavaScript可以非常理想地根据需要切分成onload事件之前部分和之后部分。例如：你有JavaScript代码和库来实现拖拽和动画功能，这些都能后加载，因为拖拽是在页面初始化渲染之后。其他如隐藏的内容（用户动作触发才显示）和展开折叠才显示的图片等<br>ex:YUI Image Loader让你能延时加载折叠下面的图片,YUIGet能在运行时加载JS和CSS文件,用firebug的网络面板查看Yahoo！Yahoo的首页加载过程,就是一个很好的例子</p>
 <h3 id="18-组件预加载"><a href="#18-组件预加载" class="headerlink" title="18.组件预加载"></a>18.组件预加载</h3><p>预加载（preload）看上去和后加载（post-load）相反，但是实际上它们的目的完全不同。预加载组件是浏览器空闲时请求组件（例如：图片，样式和脚本），这些资源你可能在未来会用到。用这种方法，当你访问下一个页面时会发现需要的大部分资源已经在浏览器的cache里面了，页面的加载速度就会很快。<br>预加载的几种方式:<br>1.无条件预加载<br>ex:google.com是在onload事件里面预加载一个sprite图片.sprite图片在google.com首页中没有用到,但是在后面的搜索结果中就用到了</p>
 <p>2.条件预加载<br>基于用户动作,做出推测,预测用户下一个要去的页面,进行相应的预加载.在search.yahoo.com你能看到当你开始在输入框中输入时一些预加载额外资源的请求.</p>
@@ -487,7 +447,7 @@
     
       &lt;p&gt;Web性能优化这个词既可以解读成页面加载速度（Page Speed）的优化，也可以解读成页面渲染性能（Page Performance）的优化。或者是二者的集合。&lt;/p&gt;
 &lt;h3 id=&quot;1-合并静态资源-进来减少HTTP请求个数&quot;&gt;&lt;a href=&quot;#1-合并静态资源-进来减少HTTP请求个数&quot; class=&quot;headerlink&quot; title=&quot;1.合并静态资源,进来减少HTTP请求个数&quot;&gt;&lt;/a&gt;1.合并静态资源,进来减少HTTP请求个数&lt;/h3&gt;&lt;p&gt;包括CSS、JavaScript和小图片，减少HTTP请求.但是又要合适考虑合并之后的文件体积,具体合并与否需要看场景&lt;/p&gt;
-&lt;img src=&quot;/blogger/2015/11/01/webPerformance/mergestaticRes.jpg&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
+&lt;img src=&quot;/blogger/2017/09/16/webPerformance/mergestaticRes.jpg&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
     
     </summary>
     
@@ -504,9 +464,9 @@
   
   <entry>
     <title>Javascript知识树</title>
-    <link href="http://yoursite.com/2015/11/01/javascripttree/"/>
-    <id>http://yoursite.com/2015/11/01/javascripttree/</id>
-    <published>2015-11-01T09:17:11.000Z</published>
+    <link href="http://yoursite.com/2017/09/16/javascripttree/"/>
+    <id>http://yoursite.com/2017/09/16/javascripttree/</id>
+    <published>2017-09-16T07:07:27.000Z</published>
     <updated>2017-09-16T07:07:27.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
@@ -759,78 +719,163 @@
   </entry>
   
   <entry>
-    <title>2014总结</title>
-    <link href="http://yoursite.com/2015/11/01/2014summary/"/>
-    <id>http://yoursite.com/2015/11/01/2014summary/</id>
-    <published>2015-11-01T09:17:11.000Z</published>
-    <updated>2017-09-16T08:07:27.000Z</updated>
+    <title>迁移你的eclipse项目到IntellJIDEA</title>
+    <link href="http://yoursite.com/2017/09/16/eclipse2Ij/"/>
+    <id>http://yoursite.com/2017/09/16/eclipse2Ij/</id>
+    <published>2017-09-16T06:48:13.000Z</published>
+    <updated>2017-09-16T06:48:13.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="志雄的2014-gt-2015"><a href="#志雄的2014-gt-2015" class="headerlink" title="志雄的2014-&gt;2015"></a><a href="https://github.com/jacsonLee" target="_blank" rel="external">志雄</a>的2014-&gt;2015</h2><h2 id="一-总结"><a href="#一-总结" class="headerlink" title="一.总结"></a>一.总结</h2><blockquote>
-<ul>
-<li>总结可以让你更清晰地看到自己。亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳</li>
-</ul>
-</blockquote>
-<p>2014总体还是比较好的.算是在Android这一块摸到了一些门道，开始每天逛github,starupnews,startupnews,做了一些实际的项目.但是Android技术方面感觉到达了一个不上不下的状态，所以开始研究一些和应用层面联系多的。例如内存和性能方面。也开始着手做一些更难的东西。目前的话，也开始着手学习一些web方面的知识,应用开发必须成为迈过去的一道坎。</p>
+    <content type="html"><![CDATA[<p>图片居多,跟着图来做即可</p>
+<h3 id="step1"><a href="#step1" class="headerlink" title="step1."></a>step1.</h3><p> 打开IJ,选择导入你的eclipse项目,跟着下面三幅图操作吧！</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/1.png" alt="如图" title="如图">
  <a id="more"></a>
-<h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><ul>
-<li>读了吴军博士的《浪潮之巅》.读完《黑客与画家》.都是深度阅读.各种刷知乎，微博，Quora,知识面相比大一的时候提高了一个层次.</li>
-<li>开始规划管理自己的时间，并用倒计时来警醒自己.</li>
-<li>开始写技术博客.</li>
-<li>在Android学习上有了不少进步。做了一些实际的项目，虽然有些只验收了第一期。</li>
-<li>参加了软件设计大赛，幸运地抱着大腿拿了第一。项目还让一些公司的老总看上了，但是感觉都是坑，目测是拉我们进去干他们的事情。最后项目是拿去参加挑战杯了.</li>
-<li>开始学习了一些web方面的知识,有php，js等</li>
-</ul>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><ul>
-<li>跟同学朋友，还有工作室的人的关系越来越好了。本来以为自己情商低得不行，但是与人相处的能力还是有那么一点的</li>
-<li>每晚都开始反思自己一天做的有什么不对的地方。</li>
-<li>交了一哥这个湖南来的朋友，他给我讲了很多东西，也教了我很多做人的道理，当然我们也是好哥们。</li>
-</ul>
-<h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><h3 id="学习-1"><a href="#学习-1" class="headerlink" title="学习"></a>学习</h3><ul>
-<li>书看得还是比较少，当然看了不少博客，但是鲜有自己动手做得时候，懒，这个要改</li>
-<li>对很多Android的东西没去理解原理就用了。</li>
-<li>总结还是太少了,博客写的也少，总归是因为自己太渣，没多少营养品可以输出.</li>
-<li>对学习没有大一的时候那么狂热认真了。开始有点愚蠢的骄傲。</li>
-<li>没有了那种初学者的心态。做事情想着走捷径。</li>
-</ul>
-<h3 id="生活-1"><a href="#生活-1" class="headerlink" title="生活"></a>生活</h3><ul>
-<li>开始变得越来越懒了，因为在工作室待了一年的缘故，慢慢变得老油条了</li>
-<li>丧失了对梦想的狂热追求，不得不感叹环境对人的影响真是大。当你长期处于一种环境，会渐渐被环境里面的人潜移默化。当然我并不是说工作室里面的人懒散,我说的是大环境。这种感觉真是可怕。所以我要用时间倒计时来鞭策自己。</li>
-<li>有时候说话不小心，很容易说错话。都是因为一直以来直来直去的原因，搞得说话不经过大脑。有好几次在待人处事上做的非常不好，英爷都是不留情面的批评我。忠言逆耳啊！换了以前的话,我肯定找理由为自己开脱。但现在不会了,也许是受身边的人影响吧.</li>
-</ul>
-<h2 id="展望2015"><a href="#展望2015" class="headerlink" title="展望2015"></a>展望2015</h2><p>2015给了自己一些计划，由于我还是个大二狗，可能有一些实现不了，但是还是写下来吧。</p>
-<ul>
-<li>买台mac(自己赚钱)</li>
-<li>买台iphone(自己赚钱)</li>
-<li>买台Nexus(自己赚钱)</li>
-<li>深入学习Android的库</li>
-<li>开始学习并做一些后端的项目</li>
-<li>顺路学一些前端框架</li>
-<li>开始深入学习数据结构，编译原理等计算机专业的知识,有空的话，可以搞一下算法，应用开发这一块必须成为迈过去的坎。</li>
-<li>把更多的时间放在学习上，尽量远离QQ，微信这些毒瘤，只允许他们成为我的工具。</li>
-<li>多写一些blog.最好是纯技术输出的文章.</li>
-<li>多做一些个人的app或者多接一些外包(学生有外包做，很开心啦).想赚多点钱，不是因为喜欢钱，而是喜欢独立.到了这个年龄，想自己养活自己,不想受社会这个庞大的机器压迫.</li>
-<li>找回大一时候的狂热，保持一种初学者的心态，别再忘记自己要去干什么。</li>
-<li>增强与人交流的技巧，这个太重要了。做事难，做人更难。要学做事，更要学做人。</li>
-</ul>
+<img src="/blogger/2017/09/16/eclipse2Ij/2.png" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/eclipse2Ij/3.png" alt="如图" title="如图">
+<h3 id="step2"><a href="#step2" class="headerlink" title="step2."></a>step2.</h3><p>导入之后 肯定报一大堆错误,其实只要重新调整一下项目的结构即可</p>
+<ol>
+<li>project那个项 基本不需要看 大概知道每个啥意思就可以了2. </li>
+<li>选择module模块,点击+号,把项目加载进来，注意选择成web工程！</li>
+<li>点击你的项目,添加一个ApplicationServerlibrary,因为后面要使用tomcat,所以要在这里加入对应的library</li>
+<li>加入tomcat之后呢,点击web,选择成为web工程之后,肯定要配置一下对应的东西不是?</li>
+</ol>
+<img src="/blogger/2017/09/16/eclipse2Ij/4.png" alt="如图" title="如图">
+<ol>
+<li>右上部分选择的是web.xml的配置文件的路径</li>
+<li>右下部分选的是的webContent的目录</li>
+</ol>
+<img src="/blogger/2017/09/16/eclipse2Ij/5.png" alt="如图" title="如图">
+<h3 id="step3"><a href="#step3" class="headerlink" title="step3"></a>step3</h3><p>把工程目录建立好之后,下一步就是引jar了,点+号你的项目对应的放jar的目录即可</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/6.png" alt="如图" title="如图">
+<h3 id="step4"><a href="#step4" class="headerlink" title="step4"></a>step4</h3><p>接下来建立一个Facets</p>
+<p>基本上跟module的web部分的配置一样<br>右上是web.xml,右下是WebContent的目录,配置好这两步的时候右下角会有警告,就是要我们去弄Artifacts</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/7.png" alt="如图" title="如图">
+<h3 id="step5"><a href="#step5" class="headerlink" title="step5"></a>step5</h3><p> artifacets翻译过来是工件,个人愚见,应该是指工程里面某个阶段的产物!在这里！讲的那么高大上,其实就是要你配置一下打包输出的目录即可</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/8.png" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/eclipse2Ij/9.png" alt="如图" title="如图">
+<h3 id="step6"><a href="#step6" class="headerlink" title="step6"></a>step6</h3><p>接下来是tomcat的配置,看图应该都懂的了,最后点击三角形跑起来</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/10.png" alt="如图" title="如图">
+<img src="/blogger/2017/09/16/eclipse2Ij/11.png" alt="如图" title="如图">
+<p>恭喜恭喜</p>
+<img src="/blogger/2017/09/16/eclipse2Ij/12.png" alt="如图" title="如图">
+<p>结语:<br>   时间仓促,写的不好,有任何问题都可以联系我!</p>
+<p><a href="http://weibo.com/3758959647/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" rel="external">微博</a></p>
+<p>email:lizhixiong498056754@gmail.com</p>
+<p><a href="https://github.com/jacsonLee" target="_blank" rel="external">Github</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;志雄的2014-gt-2015&quot;&gt;&lt;a href=&quot;#志雄的2014-gt-2015&quot; class=&quot;headerlink&quot; title=&quot;志雄的2014-&amp;gt;2015&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/jacsonLee&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;志雄&lt;/a&gt;的2014-&amp;gt;2015&lt;/h2&gt;&lt;h2 id=&quot;一-总结&quot;&gt;&lt;a href=&quot;#一-总结&quot; class=&quot;headerlink&quot; title=&quot;一.总结&quot;&gt;&lt;/a&gt;一.总结&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;总结可以让你更清晰地看到自己。亲爱的，别走的太快，花点时间总结下过去，规划下未来，会让你走的更稳&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2014总体还是比较好的.算是在Android这一块摸到了一些门道，开始每天逛github,starupnews,startupnews,做了一些实际的项目.但是Android技术方面感觉到达了一个不上不下的状态，所以开始研究一些和应用层面联系多的。例如内存和性能方面。也开始着手做一些更难的东西。目前的话，也开始着手学习一些web方面的知识,应用开发必须成为迈过去的一道坎。&lt;/p&gt;
+      &lt;p&gt;图片居多,跟着图来做即可&lt;/p&gt;
+&lt;h3 id=&quot;step1&quot;&gt;&lt;a href=&quot;#step1&quot; class=&quot;headerlink&quot; title=&quot;step1.&quot;&gt;&lt;/a&gt;step1.&lt;/h3&gt;&lt;p&gt; 打开IJ,选择导入你的eclipse项目,跟着下面三幅图操作吧！&lt;/p&gt;
+&lt;img src=&quot;/blogger/2017/09/16/eclipse2Ij/1.png&quot; alt=&quot;如图&quot; title=&quot;如图&quot;&gt;
     
     </summary>
     
-      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
     
     
-      <category term="年底总结" scheme="http://yoursite.com/tags/%E5%B9%B4%E5%BA%95%E6%80%BB%E7%BB%93/"/>
+      <category term="eclipse" scheme="http://yoursite.com/tags/eclipse/"/>
     
-      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+      <category term="IntellJIDEA" scheme="http://yoursite.com/tags/IntellJIDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubantu下安装JDK</title>
+    <link href="http://yoursite.com/2017/09/08/ubuntu_install_jdk/"/>
+    <id>http://yoursite.com/2017/09/08/ubuntu_install_jdk/</id>
+    <published>2017-09-07T16:53:40.000Z</published>
+    <updated>2017-09-07T16:53:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了愉快地玩idea,决定在linux下装phpstorm跟webstorm.结果两个都要求装java环境.师兄们建议安装sunjdk,弄了一下搞定了,做下记录</p>
+<h2 id="第一步-下载"><a href="#第一步-下载" class="headerlink" title="第一步:下载"></a>第一步:下载</h2><p>地址:<a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html" target="_blank" rel="external">http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html</a></p>
+<p>然后选择同意Licese,下载tar.gz压缩包</p>
+<a id="more"></a>
+<h2 id="第二步-解压"><a href="#第二步-解压" class="headerlink" title="第二步:解压"></a>第二步:解压</h2><p>解压tar.gz包都是用tar zxvf命令(进入到当前目录)</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo tar zxvf ./jdk-8u45-linux-x64.tar.gz</div></pre></td></tr></table></figure>
+<h2 id="第三步-设置环境变量"><a href="#第三步-设置环境变量" class="headerlink" title="第三步:设置环境变量"></a>第三步:设置环境变量</h2><p>设置环境变量需要使用.bashrc这个文件<br>cd ~ 进入到根目录,ls -a 即可查看到.bashrc这个隐藏目录</p>
+<p>注:修改.bashrc之前最好先备份一下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cp .bashrc .bash_original</div></pre></td></tr></table></figure></p>
+<p>然后使用vi或者vim编辑.bashrc文件</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">vim ~/.bashrc</div></pre></td></tr></table></figure>
+<p>在该文件的末尾添加以下代码</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">export JAVA_HOME=/home/jason/DOwnloads/jdk </div><div class="line">export CLASSPATH=$&#123;JAVA_HOME&#125;/lib:.</div><div class="line">export PATH=$&#123;JAVA_HOME&#125;/bin:$PATH</div></pre></td></tr></table></figure>
+<ul>
+<li>JAVA_HOME存放的是jdk的安装目录.</li>
+<li>设置CLASSPATH时候,加上当前目录(.)</li>
+<li>设置PATH的时候,export PATH=${JAVA_HOME}/bin:$PATH,$PATH前的连接符号是冒号(:).win下是分号(;)</li>
+</ul>
+<p>为了让修改立刻生效,在终端执行以下命令:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">source ~/.bashrc</div></pre></td></tr></table></figure></p>
+<h2 id="第四步-验证"><a href="#第四步-验证" class="headerlink" title="第四步:验证"></a>第四步:验证</h2><p>在终端输入</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">java -version</div></pre></td></tr></table></figure>
+<p>看到类似下图,说明你成功了.</p>
+<img src="/blogger/2017/09/08/ubuntu_install_jdk/confimjdk.png" alt="如图" title="如图">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为了愉快地玩idea,决定在linux下装phpstorm跟webstorm.结果两个都要求装java环境.师兄们建议安装sunjdk,弄了一下搞定了,做下记录&lt;/p&gt;
+&lt;h2 id=&quot;第一步-下载&quot;&gt;&lt;a href=&quot;#第一步-下载&quot; class=&quot;headerlink&quot; title=&quot;第一步:下载&quot;&gt;&lt;/a&gt;第一步:下载&lt;/h2&gt;&lt;p&gt;地址:&lt;a href=&quot;http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后选择同意Licese,下载tar.gz压缩包&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单例模式</title>
+    <link href="http://yoursite.com/2017/09/06/singleton/"/>
+    <id>http://yoursite.com/2017/09/06/singleton/</id>
+    <published>2017-09-06T13:59:47.000Z</published>
+    <updated>2017-09-06T13:59:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>特点：<br>1.单例类只有一个实例<br>2.单例类必须自己创建自己的唯一实例<br>3.必须有私有的构造方法<br>4.单例类必须给所有其他对象提供这一实例,必须有一个以自己实例为返回值的静态公有方法</p>
+<h2 id="饿汉式单例模式"><a href="#饿汉式单例模式" class="headerlink" title="饿汉式单例模式"></a>饿汉式单例模式</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span></span>&#123;</div><div class="line">  <span class="keyword">private</span> <span class="keyword">static</span> Singleton singleton = <span class="keyword">new</span> Signleton();</div><div class="line">  <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span></span>&#123;&#125;</div><div class="line">  </div><div class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">    <span class="keyword">return</span> singleton;</div><div class="line">  &#125;  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<h2 id="懒汉单例模式"><a href="#懒汉单例模式" class="headerlink" title="懒汉单例模式"></a>懒汉单例模式</h2><p>1.普通懒汉 （多线程会失败）</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> Singleton singleton;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span> </span>&#123;</div><div class="line"></div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">synchronized</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">        <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">            singleton = <span class="keyword">new</span> Singleton();</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> singleton;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>2.双重锁定检查 （DCL）</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">    <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">        <span class="keyword">synchronized</span> (Singleton.class)&#123;</div><div class="line">            <span class="keyword">if</span> (singleton == <span class="keyword">null</span>)&#123;</div><div class="line">                singleton = <span class="keyword">new</span> Singleton();</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> singleton;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>3.延迟初始化占位（Holder）类模式</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Singleton</span> </span>&#123;</div><div class="line"></div><div class="line"></div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> <span class="class"><span class="keyword">class</span> <span class="title">LazyHolder</span> </span>&#123;</div><div class="line">        <span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">final</span> Singleton INSTANCE = <span class="keyword">new</span> Singleton();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span> </span>&#123;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span>&#123;</div><div class="line">        <span class="keyword">return</span> LazyHolder.INSTANCE;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>第三种方式最优,一个静态内部类（占位类），在内部类中提前初始化实例，既保证了Singleton实例的延迟初始化，又保证了同步。这是一种提前初始化（饿汉式）和延迟初始化（懒汉式）的综合模式</p>
+<h3 id="优缺"><a href="#优缺" class="headerlink" title="优缺"></a>优缺</h3><p>优点</p>
+<ul>
+<li>节省内存空间（只有一个对象）</li>
+<li>避免频繁的开销</li>
+<li>避免对共享资源的多重占用</li>
+<li>全局访问</li>
+</ul>
+<p>缺点</p>
+<ul>
+<li>线程安全问题,饿汉式天生就是线程安全,懒汉式的话,为了线程安全的问题，才实现了以上三种方式。</li>
+</ul>
+<h3 id="三种懒汉模式的区别"><a href="#三种懒汉模式的区别" class="headerlink" title="三种懒汉模式的区别"></a>三种懒汉模式的区别</h3><p>1.在方法调用上加了同步关键字,虽然线程安全了，但每次都要同步，影响性能。非多线程环境下,基本99%的场景应该都不需要同步。<br>2.在getInstance中做了两次null检查,确保了只有第一次调用单例的时候才会做同步,解决了安全问题，也避免了资源消耗,但会存在指令重排序问题。<br>3.利用了classloader的机制来保证初始化instance时只有一个线程，所以也是线程安全的，同时没有性能损耗，所以一般我倾向于使用这一种。</p>
+<p>参考:</p>
+<p>1.<a href="http://blog.csdn.net/zhangzeyuaaa/article/details/42673245" target="_blank" rel="external">http://blog.csdn.net/zhangzeyuaaa/article/details/42673245</a><br>2.<a href="http://blog.csdn.net/jason0539/article/details/23297037/" target="_blank" rel="external">http://blog.csdn.net/jason0539/article/details/23297037/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;特点：&lt;br&gt;1.单例类只有一个实例&lt;br&gt;2.单例类必须自己创建自己的唯一实例&lt;br&gt;3.必须有私有的构造方法&lt;br&gt;4.单例类必须给所有其他对象提供这一实例,必须有一个以自己实例为返回值的静态公有方法&lt;/p&gt;
+&lt;h2 id=&quot;饿汉式单例模式&quot;&gt;&lt;a href=&quot;#饿汉式单例模式&quot; class=&quot;headerlink&quot; title=&quot;饿汉式单例模式&quot;&gt;&lt;/a&gt;饿汉式单例模式&lt;/h2&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Singleton&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; Singleton singleton = &lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; Signleton();&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Singleton&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&amp;#123;&amp;#125;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; Singleton &lt;span class=&quot;title&quot;&gt;getInstance&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; singleton;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  &amp;#125;  &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+      <category term="编程" scheme="http://yoursite.com/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
